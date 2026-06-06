@@ -1,6 +1,4 @@
-# Salary-Prediction-Model
-
-# Objective :-
+# Salary-Prediction-Model 
 
 To develop a machine learning model that predicts salary.
 
